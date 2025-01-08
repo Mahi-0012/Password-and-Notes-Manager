@@ -62,7 +62,7 @@ public class PasswordNotesManager extends JFrame {
         String enteredPassword = new String(enteredPasswordChars);
 
         // For demonstration purposes, hardcoding the username and password
-        if ("hii".equals(enteredUsername) && "bye".equals(enteredPassword)) {
+        if ("ADMIN".equals(enteredUsername) && "ADMIN".equals(enteredPassword)) {
             // Successful login, show the main application
             showMainApplication();
         } else {
