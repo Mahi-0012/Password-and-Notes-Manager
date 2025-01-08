@@ -1,2 +1,1 @@
-# Projects
-all my starting projects are available in here
+THIS PROJECT MAILY FOCUS ON THE BASIC USE OF GUI BY USING IN-BUILT JAVA LIBRARY JAVAFX
